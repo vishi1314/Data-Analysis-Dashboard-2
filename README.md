@@ -11,7 +11,7 @@ This Netflix Power BI Dashboard provides insights into content distribution, rat
 
 ![Netflix](https://github.com/user-attachments/assets/9461b109-219d-4f42-b1ee-9fcd89359135)
 
-## Project Learnings:
+## Conclusion:
 
 •	TV Shows dominate (69.6%) over movies.
 
