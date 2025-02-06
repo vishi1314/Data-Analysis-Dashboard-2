@@ -14,7 +14,11 @@ This Netflix Power BI Dashboard provides insights into content distribution, rat
 ## Project Learnings:
 
 •	TV Shows dominate (69.6%) over movies.
+
 •	Content grew rapidly post-2015, indicating Netflix’s expansion.
+
 •	TV-MA and TV-14 ratings are most common, targeting mature audiences.
+
 •	Dramas, Documentaries, and Comedies are the most listed genres.
+
 •	Netflix has a strong global presence with widespread content availability.
