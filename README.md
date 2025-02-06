@@ -6,7 +6,6 @@
 - <a href="https://github.com/vishi1314/Data-Analysis-Dashboard-2/blob/main/netflix_titles.csv">Dataset</a>
 
 - Dashboard Interaction <a href="https://github.com/vishi1314/Data-Analysis-Dashboard-2/blob/main/Netflix.png">View Dashboard</a>
-- Background KPIs <a href="https://github.com/vishi1314/Data-Analysis-Dashboard-2/blob/main/Netflix%20Background.pbix">View Background</a>
 
 ## Dashboard
 
